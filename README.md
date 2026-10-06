@@ -107,3 +107,4 @@ certificate takes up to an hour). DNS changes can take a few hours to spread.
   everything, in both light and dark mode.
 
 Changes go live about a minute after you commit them.
+
